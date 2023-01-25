@@ -1,0 +1,80 @@
+- model: classroom.place
+  pk: 1
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 2
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 3
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 4
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 5
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 6
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 7
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 8
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 9
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 10
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 11
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 12
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 13
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 14
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 15
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 16
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 17
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 18
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 19
+  fields:
+    booked: False
+- model: classroom.place
+  pk: 20
+  fields:
+    booked: False
